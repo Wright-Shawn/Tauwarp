@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "tauwarp: Non-linear Time Re-parameterization Toolkit"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Wright
+    given-names: Shawn C.
+    email: shawnkardin@gmail.com
+    orcid: "https://orcid.org/0009-0006-6043-9295"
+repository-code: "https://github.com/Wright-Shawn/tauwarp"
+license: "Apache-2.0"
+version: "0.0.1"
+date-released: "2025-08-15"
+doi: ""
