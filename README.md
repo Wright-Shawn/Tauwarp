@@ -41,3 +41,10 @@ By applying the same model across radically different domains, we can either:
  •	Set the tightest cross-domain bounds yet on non-linear time.
 
  •	Or detect a consistent deviation worth deeper investigation.
+
+# Data
+
+This project can operate on **synthetic** data or public datasets.
+
+- Place tiny synthetic CSVs in `data/samples/` (ignored by git).
+- For public datasets, link to the source and keep only scripts that download/process them.
