@@ -49,7 +49,7 @@ This project can operate on **synthetic** data or public datasets.
 - Place tiny synthetic CSVs in `data/samples/` (ignored by git).
 - For public datasets, link to the source and keep only scripts that download/process them.
 
-## 📄 Citation
+## Citation
 
 If you use **tauwarp** in your work, please cite it as follows:
 
