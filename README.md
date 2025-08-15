@@ -49,12 +49,19 @@ This project can operate on **synthetic** data or public datasets.
 - Place tiny synthetic CSVs in `data/samples/` (ignored by git).
 - For public datasets, link to the source and keep only scripts that download/process them.
 
+## Planned Features
+- Interactive Jupyter notebook demos for warp parameter fitting
+- Synthetic dataset generator for hypothesis stress-testing
+- Cross-dataset Bayesian fitting pipeline
+- Visualization module for τ vs. t mappings
+
 ## Citation
 
 If you use **tauwarp** in your work, please cite it as follows:
 
 **APA Style**  
 Wright, S. C. (2025). *tauwarp: Non-linear Time Re-parameterization Toolkit* (Version 0.0.1) [Computer software]. GitHub. https://github.com/Wright-Shawn/Tauwarp
+[ORCID: 0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
 
 **BibTeX**  
 ```bibtex
