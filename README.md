@@ -54,7 +54,7 @@ This project can operate on **synthetic** data or public datasets.
 If you use **tauwarp** in your work, please cite it as follows:
 
 **APA Style**  
-Wright, S. C. (2025). *tauwarp: Non-linear Time Re-parameterization Toolkit* (Version 0.0.1) [Computer software]. GitHub. https://github.com/Wright-Shawn/tauwarp
+Wright, S. C. (2025). *tauwarp: Non-linear Time Re-parameterization Toolkit* (Version 0.0.1) [Computer software]. GitHub. https://github.com/Wright-Shawn/Tauwarp
 
 **BibTeX**  
 ```bibtex
