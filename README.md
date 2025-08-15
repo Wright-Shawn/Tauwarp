@@ -42,9 +42,27 @@ By applying the same model across radically different domains, we can either:
 
  •	Or detect a consistent deviation worth deeper investigation.
 
-# Data
+## Data
 
 This project can operate on **synthetic** data or public datasets.
 
 - Place tiny synthetic CSVs in `data/samples/` (ignored by git).
 - For public datasets, link to the source and keep only scripts that download/process them.
+
+## 📄 Citation
+
+If you use **tauwarp** in your work, please cite it as follows:
+
+**APA Style**  
+Wright, S. C. (2025). *tauwarp: Non-linear Time Re-parameterization Toolkit* (Version 0.0.1) [Computer software]. GitHub. https://github.com/Wright-Shawn/tauwarp
+
+**BibTeX**  
+```bibtex
+@software{wright2025tauwarp,
+  author = {Wright, Shawn C.},
+  title = {tauwarp: Non-linear Time Re-parameterization Toolkit},
+  url = {https://github.com/Wright-Shawn/tauwarp},
+  version = {0.0.1},
+  date = {2025-08-15},
+  license = {Apache-2.0}
+}
