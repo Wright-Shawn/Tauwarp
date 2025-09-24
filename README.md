@@ -17,7 +17,9 @@ If true, this would leave a subtle but universal fingerprint across every proces
 Tauwarp provides:
 
 • Functions to re-parameterize time series (t → τ) under simple test forms like τ = t + ε·t².
+
 • Residual-generation tools to see how these warps affect different datasets.
+
 • Bayesian fitting workflows for cross-domain constraints on the warp parameter ε.
 
 ⸻
@@ -29,25 +31,34 @@ Time is treated as linear in all mainstream physics, but this assumption has nev
 Tauwarp enables a unified analysis using:
 
 • Laboratory clocks — long-term optical and microwave comparisons.
+
 • Astrophysical timers — millisecond pulsars, gravitational-wave chirps, strong-lens delays.
+
 • Cosmological baselines — supernovae, BAO, and CMB acoustic features.
 
 By applying the same model across radically different domains, we can either:
 
 • Set the tightest cross-domain bounds yet on non-linear time.
+
 • Or detect a consistent deviation worth deeper investigation.
 
 Data
 
 This project can operate on synthetic data or public datasets.
-	•	Place tiny synthetic CSVs in data/samples/ (ignored by git).
-	•	For public datasets, link to the source and keep only scripts that download/process them.
+
+•	Place tiny synthetic CSVs in data/samples/ (ignored by git).
+
+•	For public datasets, link to the source and keep only scripts that download/process them.
 
 Planned Features
-	•	Interactive Jupyter notebook demos for warp parameter fitting
-	•	Synthetic dataset generator for hypothesis stress-testing
-	•	Cross-dataset Bayesian fitting pipeline
-	•	Visualization module for τ vs. t mappings
+
+•	Interactive Jupyter notebook demos for warp parameter fitting
+
+•	Synthetic dataset generator for hypothesis stress-testing
+
+•	Cross-dataset Bayesian fitting pipeline
+
+•	Visualization module for τ vs. t mappings
 
 Citation
 
