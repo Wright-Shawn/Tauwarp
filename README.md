@@ -17,7 +17,7 @@ This repository implements the Non-Linear Time Hypothesis, which proposes that t
 
 If true, this would leave a subtle but universal fingerprint across every process with a predictable time law, from the ticking of atomic clocks, to pulsar rotations, to the expansion history of the universe.
 
-## Tauwarp provides:
+## Tauwarp Provides:
 
 • Functions to re-parameterize time series (t → τ) under simple test forms like τ = t + ε·t².
 
@@ -27,7 +27,7 @@ If true, this would leave a subtle but universal fingerprint across every proces
 
 ⸻
 
-## Why it matters
+## Why it Matters
 
 Time is treated as linear in all mainstream physics, but this assumption has never been directly tested across the widest possible range of scales.
 
