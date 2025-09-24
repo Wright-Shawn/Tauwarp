@@ -1,5 +1,8 @@
 # Tauwarp
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0bf26ed-4680-4b3d-9235-dcd31ae4bf1a" />
+
+
 Tauwarp — n. A research framework for re-parameterizing clock time t into a hypothesized “true time” variable τ using non-linear mappings, and testing the resulting predictions against precision measurements from laboratory, astrophysical, and cosmological systems.
 
 Testing the limits of linear time — Tools and workflows for probing non-linear time hypotheses using data from atomic clocks, pulsars, and cosmology.
