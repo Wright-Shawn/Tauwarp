@@ -1,4 +1,4 @@
-Tauwarp
+# Tauwarp
 
 Tauwarp — n. A research framework for re-parameterizing clock time t into a hypothesized “true time” variable τ using non-linear mappings, and testing the resulting predictions against precision measurements from laboratory, astrophysical, and cosmological systems.
 
@@ -6,7 +6,7 @@ Testing the limits of linear time — Tools and workflows for probing non-linear
 
 ⸻
 
-Overview
+## Overview
 
 This repository implements the Non-Linear Time Hypothesis, which proposes that the true physical time variable τ may be a non-linear function of laboratory time t:
 
@@ -14,7 +14,7 @@ This repository implements the Non-Linear Time Hypothesis, which proposes that t
 
 If true, this would leave a subtle but universal fingerprint across every process with a predictable time law — from the ticking of atomic clocks, to pulsar rotations, to the expansion history of the universe.
 
-Tauwarp provides:
+## Tauwarp provides:
 
 • Functions to re-parameterize time series (t → τ) under simple test forms like τ = t + ε·t².
 
@@ -24,7 +24,7 @@ Tauwarp provides:
 
 ⸻
 
-Why it matters
+## Why it matters
 
 Time is treated as linear in all mainstream physics, but this assumption has never been directly tested across the widest possible range of scales.
 
@@ -42,7 +42,7 @@ By applying the same model across radically different domains, we can either:
 
 • Or detect a consistent deviation worth deeper investigation.
 
-Data
+## Data
 
 This project can operate on synthetic data or public datasets.
 
@@ -50,7 +50,7 @@ This project can operate on synthetic data or public datasets.
 
 •	For public datasets, link to the source and keep only scripts that download/process them.
 
-Planned Features
+## Planned Features
 
 •	Interactive Jupyter notebook demos for warp parameter fitting
 
@@ -60,7 +60,7 @@ Planned Features
 
 •	Visualization module for τ vs. t mappings
 
-Citation
+## Citation
 
 If you use tauwarp in your work, please cite it as follows:
 
